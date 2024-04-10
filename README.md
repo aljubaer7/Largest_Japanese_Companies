@@ -35,5 +35,5 @@ EDA involves exploring the movie data to answer key questions such as:
 ### Results/Findings
 
 - Toyota, Mitsubishi and Honda has the largest amount of revenue.
-- Toyota’s revenue is facing slight increase and decrease over the years but its rising upwords.
-- Though top 3 Companies are Automootive industrie, the largest asset holds Conglomerates Industrie.
+- Toyota’s revenue is facing slight increase and decrease over the years but its rising upwards.
+- Though top 3 Companies are Automotive industry, the largest asset holds Conglomerates Industry.
